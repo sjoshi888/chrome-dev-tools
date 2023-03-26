@@ -1,0 +1,11 @@
+body {
+    background-color: lightblue;
+    text-align: center;
+}
+li {
+    color: hotpink;
+}
+li:hover {
+   color:red; 
+   cursor: pointer;
+}
